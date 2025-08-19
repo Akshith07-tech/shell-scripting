@@ -1,5 +1,5 @@
 #!/bin/bash
-# error_handling
+# error_handling.sh
 
 # Create a test file
 echo "hello" > /tmp/test.txt
